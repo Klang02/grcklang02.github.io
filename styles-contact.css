@@ -158,14 +158,14 @@ nav a{
 }
 
 a{
-	color: white;
+	color: rgba(239, 117, 130);
 	text-decoration:none; /* This removes the underline*/
 	font-weight:bold;
 	letter-spacing: 1px
 }
 
 a:hover{
-	color: rgba(239, 117, 130); /* This is a full opacity version of my background color*/
+	color: white; /* This is a full opacity version of my background color*/
 }
 
 /*keyframes for my animated quote*/
