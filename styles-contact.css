@@ -115,7 +115,6 @@ h2 {
     color: #fff;
     padding: 0px 0px;
     margin: 0px auto 5px auto;
-	margin-bottom: 0.5em;
 	/*attempt at creating a fade for my quote*/
 	animation: fadeIn ease 5s;
 	-webkit-animation: fadeIn ease 5s;
