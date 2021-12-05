@@ -84,7 +84,7 @@ html, body {
     width: 45%; /* This percent measurement allows it to be responsive to the window size*/
 	margin-bottom: 16px;
 	text-align: center;
-	margin-top: 5%; /* This adds a bit of space above the nav element*/
+	margin-top: 12%; /* This adds a bit of space above the nav element*/
 	margin-bottom: 8%;
 }
 
@@ -95,6 +95,7 @@ h1 {
 	font-style: normal;
 	font-size: 2em;
     margin: 0px auto 10px auto;
+	margin-bottom: 0.5px auto;
     color: #fff;
 	/*attempt at creating a fade for my quote*/
 	animation: fadeIn ease 5s;
@@ -113,7 +114,7 @@ h2 {
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
-    margin: 0px auto 5px auto;
+    margin: 0.5px auto 5px auto;
 	/*attempt at creating a fade for my quote*/
 	animation: fadeIn ease 5s;
 	-webkit-animation: fadeIn ease 5s;
